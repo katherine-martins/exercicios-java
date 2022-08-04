@@ -1,8 +1,4 @@
-import Banco.ContaBancaria;
-import modelos.Produto;
-import modelos.Retangulo;
-
-import java.util.Scanner;
+package Application;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,6 +6,8 @@ public class Main {
 
         //Retangulo.MainRetangulo();
 
-        ContaBancaria.criandoConta();
+        //ContaBancaria.criandoConta();
+
+        //NumerosNegativos.problemaNegativos();
     }
 }
