@@ -1,4 +1,7 @@
-package Loja;
+package Loja.models;
+
+import Loja.Enums.StatusPedido;
+import Loja.models.ItemPedido;
 
 import java.util.ArrayList;
 import java.util.Date;

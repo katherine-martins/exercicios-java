@@ -1,4 +1,4 @@
-package Loja;
+package Loja.models;
 
 public class Produto {
     private String nome;

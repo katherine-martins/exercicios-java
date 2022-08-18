@@ -1,4 +1,4 @@
-package Loja;
+package Loja.models;
 
 import java.util.Date;
 
