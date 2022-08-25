@@ -1,9 +1,8 @@
-package Loja;
+package loja;
 
-import Loja.Enums.StatusPedido;
-import Loja.models.Cliente;
-import Loja.models.ItemPedido;
-import Loja.models.Produto;
+import loja.enums.StatusPedido;
+import loja.models.Cliente;
+import loja.models.Produto;
 
 import java.util.*;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package Loja.models;
+package loja.models;
 
 public class ItemPedido {
     private Integer quantidade;

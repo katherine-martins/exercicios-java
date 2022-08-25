@@ -1,8 +1,8 @@
-package Loja.models;
+package loja.models;
 
 public class Produto {
     private String nome;
-    private Double preco;
+    private Double preco; //é recomendado colocar wrapper nas propriedades pois é melhor quando for integrar com BD
 
     public String getNome() {
         return nome;

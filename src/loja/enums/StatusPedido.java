@@ -1,4 +1,4 @@
-package Loja.Enums;
+package loja.enums;
 
 public enum StatusPedido {
     PAGAMENTO_PENDENTE,
