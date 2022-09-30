@@ -16,7 +16,7 @@ public class MainLoja {
         Cliente cliente;
         //Item Pedido
         StatusPedido statusPedido;
-0        int quantidade;
+        int quantidade;
         //Dados do Produto
         Produto produto;
         String produtoNome;
